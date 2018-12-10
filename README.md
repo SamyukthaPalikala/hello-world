@@ -1,2 +1,2 @@
 # hello-world
-project
+This is my new OST project
